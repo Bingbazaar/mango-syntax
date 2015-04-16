@@ -1,7 +1,7 @@
 {
   "name": "mango-syntax",
   "theme": "syntax",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Syntax theme inspired by the Monokai theme",
   "repository": "https://github.com/Dubstepper/mango-syntax",
   "license": "MIT",
