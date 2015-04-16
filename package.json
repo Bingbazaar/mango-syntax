@@ -1,9 +1,9 @@
 {
   "name": "mango-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A short description of your syntax theme",
-  "repository": "https://github.com/atom/mango-syntax",
+  "repository": "https://github.com/Dubstepper/mango-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
