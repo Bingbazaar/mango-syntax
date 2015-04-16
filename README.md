@@ -2,4 +2,4 @@
 
 Inspired by the Monokai theme.
 
-![Mango-Syntax](Mango-Syntax.jpg)
+![Mango-Syntax](Mango-Syntax.JPG)
